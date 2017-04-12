@@ -1,18 +1,26 @@
 {
   "coffeeorders": [
     {
-      "coffee": "test",
-      "emailAddress": "test@bignerdranch.com",
+      "coffee": "espresso",
+      "emailAddress": "sdfhgs@bignerdranch.com",
       "size": "tall",
       "flavor": "",
       "strength": "30",
-      "id": "test@bignerdranch.com"
+      "id": "sdfhgs@bignerdranch.com"
     },
     {
-      "coffee": "espresso",
+      "coffee": "iced coffee",
+      "emailAddress": "dno@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "dno@bignerdranch.com"
+    },
+    {
+      "coffee": "iced tea",
       "emailAddress": "dr@bignerdranch.com",
       "size": "tall",
-      "flavor": "mocha",
+      "flavor": "",
       "strength": "30",
       "id": "dr@bignerdranch.com"
     }
